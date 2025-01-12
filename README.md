@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **lucka.valtriani@epitech.eu**
 
+- 🌟 I collaborate with [Infinite Corporation](https://x.com/Infinite_Corpo]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/187lucka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/187lucka" height="30" width="40" /></a>
@@ -23,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=187lucka&show_icons=true&locale=en&layout=compact" alt="187lucka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=187lucka&show_icons=true&locale=en" alt="187lucka" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=187lucka&" alt="187lucka" /></p>
